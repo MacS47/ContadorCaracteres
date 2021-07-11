@@ -28,7 +28,13 @@ def count_all(text):
 
 
 #
-# Função retorna a quantidade de caracteres em uma string
+# Função retorna a quantidade de letras e espaços
+# em uma string.
+# text = parâmetro da função, texto ou palavra informado pelo usuário
+# textWttSpc = string que receberá somente os caracteres na ordem que foram informados
+# caracterNumbers = contagem do número de letras, sinais de pontuação e caracteres especiais encontrados na string original
+# spcNumbers = diferença entre o comprimento da string original e a string sem espaços
+# statistic = lista criada para retornar o número de caracteres e o número de espaços da string original
 #
 
 def count_wtt_spc(text):
