@@ -20,7 +20,7 @@ print(f"\n{entrada}")
 #-------------------------------------------------------------------------------------------
 #
 # 2ª - Etapa
-# 
+# Realizar a contagem do número de caracteres
 # 
 
 indice = 0
