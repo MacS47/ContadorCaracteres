@@ -52,4 +52,5 @@ statistic = f.count_wtt_spc(userText)
 # 
 
 print(f"\nA sua frase possui {caracterNumbers} carcacteres.")
-print(f"Sendo {statistic[0]} letras, sinais de pontuação,\n caracteres especiais e {statistic[1]} espaços.\n")
+print(f"Sendo {statistic[0]} letras, sinais de pontuação ou caracteres especiais")
+print(f"e {statistic[1]} espaços.\n")
